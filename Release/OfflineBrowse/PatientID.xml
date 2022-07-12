@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PatientInfo>
+    <FileLocation>C:\Users\DELL\AppData\Roaming\ClearBos</FileLocation>
+    <PatientID>000000000001</PatientID>
+    <DataCount>1</DataCount>
+    <CBSFileName>s201812010002.cbs</CBSFileName>
+    <PatientID>000000000002</PatientID>
+    <DataCount>1</DataCount>
+    <CBSFileName>s201803040016.cbs</CBSFileName>
+    <PatientID>000000000003</PatientID>
+    <DataCount>1</DataCount>
+    <CBSFileName>s201803200053.cbs</CBSFileName>
+    <PatientID>000000000004</PatientID>
+    <DataCount>1</DataCount>
+    <CBSFileName>s201707180002.cbs</CBSFileName>
+    <PatientID>000000000005</PatientID>
+    <DataCount>1</DataCount>
+    <CBSFileName>s201903270004.cbs</CBSFileName>
+    <PatientID>201808010103</PatientID>
+    <DataCount>4</DataCount>
+    <CBSFileName>s201808010103DE0004.cbs</CBSFileName>
+    <PatientID>201812090005</PatientID>
+    <DataCount>1</DataCount>
+    <CBSFileName></CBSFileName>
+    <PatientID>202003230002</PatientID>
+    <DataCount>1</DataCount>
+    <CBSFileName>s202003230002DE0001.cbs</CBSFileName>
+    <PatientID>202008220011</PatientID>
+    <DataCount>1,4</DataCount>
+    <CBSFileName>,</CBSFileName>
+    <PatientID>202202210016</PatientID>
+    <DataCount>1</DataCount>
+    <CBSFileName></CBSFileName>
+    <PatientID>202202220022</PatientID>
+    <DataCount>1,2</DataCount>
+    <CBSFileName>s202202220022DE0001.cbs,s202202220022DR0009.cbs</CBSFileName>
+    <PatientID>Autobackups</PatientID>
+    <DataCount></DataCount>
+    <CBSFileName></CBSFileName>
+</PatientInfo>

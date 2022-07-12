@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+;WebTeethShaper
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WebTeethShaper]
+@="WebTeethShaper"
+"URL Protocol"="E:\\svncode\\trunk\\Teeth\\Bin\\Release\\TeethShaper.exe %l"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WebTeethShaper\DefaultIcon]
+@="%SystemRoot%\\system32\\url.dll,0"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WebTeethShaper\Shell]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WebTeethShaper\Shell\open]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WebTeethShaper\Shell\open\command]
+@="E:\\svncode\\trunk\\Teeth\\Bin\\Release\\TeethShaper.exe %l"
+
+;WebOrthoStudio
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WebOrthoStudio]
+@="WebOrthoStudio"
+"URL Protocol"="E:\\svncode\\trunk\\Teeth\\Bin\\Release\\OrthoStudio.exe %l"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WebOrthoStudio\DefaultIcon]
+@="%SystemRoot%\\system32\\url.dll,0"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WebOrthoStudio\Shell]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WebOrthoStudio\Shell\open]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WebOrthoStudio\Shell\open\command]
+@="E:\\svncode\\trunk\\Teeth\\Bin\\Release\\OrthoStudio.exe %l"
+
+;WebOrthoStudio
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WebDentalWorks]
+@="WebDentalWorks"
+"URL Protocol"="E:\\svncode\\trunk\\Teeth\\Bin\\Release\\DentalWorks.exe %l"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WebDentalWorks\DefaultIcon]
+@="%SystemRoot%\\system32\\url.dll,0"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WebDentalWorks\Shell]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WebDentalWorks\Shell\open]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\WebDentalWorks\Shell\open\command]
+@="E:\\svncode\\trunk\\Teeth\\Bin\\Release\\DentalWorks.exe %l"

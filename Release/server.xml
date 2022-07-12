@@ -1,0 +1,36 @@
+﻿<config>
+<serverlist>
+	<server ip="120.25.165.192" port="8891" note="正式" subtrans="true"></server>
+</serverlist>
+<filedir>E:\model\test</filedir>
+<UpdateServer ip="120.25.165.192" port="8890"> </UpdateServer>
+<HttpServer>http://soft.clearbos.com/ClearCheckSoftVerGet.ashx</HttpServer>
+<HttpServerList>
+<server ip="http://drapp.clearbos.com:9080/consentScheme/consentScheme.html" note="正式" subtrans="true"></server>
+</HttpServerList>
+<HttpUploadServer>
+<server domain="www.clearbos.com" port="82" path="/api/file/os/savefile" serverPath="E:/clearbos/TestServer/PatientFiles/" note="正式" subtrans="true"></server>
+</HttpUploadServer>
+<SendCBMDataToWeb>
+<server ip="http://www.clearbos.com/api/flow/dm/upload" domain="www.clearbos.com" port="8087" path="/api/flow/dm/upload" note="正式" subtrans="true"></server>
+</SendCBMDataToWeb>
+<HttpUploadScore>
+<server domain="www.clearbos.com" port="8087" path="/api/flow/CaseClinicalOperation/DoctorGrade" note="正式" subtrans="true"></server>
+</HttpUploadScore>
+<HttpUploadPerfectJaw>
+<server domain="www.clearbos.com" port="8087" path="/api/flow/CaseClinicalOperation/SyncPerfectJaw" note="正式" subtrans="true"></server>
+</HttpUploadPerfectJaw>
+<HttpCheckFolderExists>
+<server domain="www.clearbos.com" port="8087" path="/api/file/Upload/CheckFileExists" note="正式" subtrans="true"></server>
+</HttpCheckFolderExists>
+<!--下载文件-->
+<HttpDownLoadFile>
+<server domain="www.clearbos.com" port="82" path="/api/file/os/downloadfile" serverPath="E:/clearbos/TestServer/PatientFiles/" note="正式" subtrans="true"></server>
+</HttpDownLoadFile>
+<HttpCheckFolderExists>
+<server domain="www.clearbos.com" port="8087" path="/api/file/Upload/CheckFileExists" note="正式" subtrans="true"></server>
+</HttpCheckFolderExists>
+<HttpGetToothGap>
+<server domain="www.clearbos.com" port="8087" path="Api/Flow/CaseClinicalOperation/GetCaseClinicalToothGap" note="正式" subtrans="true"></server>
+</HttpGetToothGap>
+</config>

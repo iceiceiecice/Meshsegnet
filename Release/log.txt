@@ -1,0 +1,83 @@
+Traceback (most recent call last):
+  File "seg.py", line 341, in <module>
+  File "seg.py", line 231, in seg_example_U
+  File "seg.py", line 154, in segu
+  File "zipfile.py", line 1222, in __init__
+  File "zipfile.py", line 1289, in _RealGetContents
+zipfile.BadZipFile: File is not a zip file
+Traceback (most recent call last):
+  File "seg.py", line 248, in seg_example_Head
+FileNotFoundError: [Errno 2] No such file or directory: '111.jpg'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "seg.py", line 316, in <module>
+  File "seg.py", line 252, in seg_example_Head
+FileNotFoundError: [Errno 2] No such file or directory: '111.jpg'
+Traceback (most recent call last):
+  File "seg.py", line 248, in seg_example_Head
+FileNotFoundError: [Errno 2] No such file or directory: '111.jpg'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "seg.py", line 316, in <module>
+  File "seg.py", line 252, in seg_example_Head
+FileNotFoundError: [Errno 2] No such file or directory: '111.jpg'
+Traceback (most recent call last):
+  File "seg.py", line 329, in <module>
+  File "seg.py", line 213, in seg_example_L
+  File "seg.py", line 135, in segl
+  File "zipfile.py", line 1222, in __init__
+  File "zipfile.py", line 1289, in _RealGetContents
+zipfile.BadZipFile: File is not a zip file
+Traceback (most recent call last):
+  File "seg.py", line 329, in <module>
+  File "seg.py", line 213, in seg_example_L
+  File "seg.py", line 135, in segl
+  File "zipfile.py", line 1222, in __init__
+  File "zipfile.py", line 1289, in _RealGetContents
+zipfile.BadZipFile: File is not a zip file
+Traceback (most recent call last):
+  File "seg.py", line 329, in <module>
+  File "seg.py", line 213, in seg_example_L
+  File "seg.py", line 135, in segl
+  File "zipfile.py", line 1222, in __init__
+  File "zipfile.py", line 1289, in _RealGetContents
+zipfile.BadZipFile: File is not a zip file
+Traceback (most recent call last):
+  File "seg.py", line 329, in <module>
+  File "seg.py", line 213, in seg_example_L
+  File "seg.py", line 135, in segl
+  File "zipfile.py", line 1222, in __init__
+  File "zipfile.py", line 1289, in _RealGetContents
+zipfile.BadZipFile: File is not a zip file
+Traceback (most recent call last):
+  File "seg.py", line 329, in <module>
+  File "seg.py", line 213, in seg_example_L
+  File "seg.py", line 135, in segl
+  File "zipfile.py", line 1222, in __init__
+  File "zipfile.py", line 1289, in _RealGetContents
+zipfile.BadZipFile: File is not a zip file
+Traceback (most recent call last):
+  File "seg.py", line 329, in <module>
+  File "seg.py", line 213, in seg_example_L
+  File "seg.py", line 135, in segl
+  File "zipfile.py", line 1222, in __init__
+  File "zipfile.py", line 1289, in _RealGetContents
+zipfile.BadZipFile: File is not a zip file
+Traceback (most recent call last):
+  File "seg.py", line 329, in <module>
+  File "seg.py", line 213, in seg_example_L
+  File "seg.py", line 135, in segl
+  File "zipfile.py", line 1222, in __init__
+  File "zipfile.py", line 1289, in _RealGetContents
+zipfile.BadZipFile: File is not a zip file
+Traceback (most recent call last):
+  File "seg.py", line 329, in <module>
+  File "seg.py", line 213, in seg_example_L
+  File "seg.py", line 135, in segl
+  File "zipfile.py", line 1222, in __init__
+  File "zipfile.py", line 1289, in _RealGetContents
+zipfile.BadZipFile: File is not a zip file
